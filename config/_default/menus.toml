@@ -1,0 +1,54 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Root"
+  url = "#home"
+  weight = 10
+  
+[[main]]
+  name = "GitLab"
+  url = "https://gitlab.com/denchyaknow"
+  weight = 20
+
+[[main]]
+  name = "Twitter"
+  url = "https://twitter.com/Denchyaknow"
+  weight = 30
+
+[[main]]
+  name = "UpWork"
+  url = "https://www.upwork.com/o/profiles/users/_~01711eb4bb75cbb1c3/"
+  weight = 40
+
+[[main]]
+  name = "Discord"
+  url = "https://discord.gg/5rYrWKj"
+  weight = 50
+
+[[main]]
+  name = "Patreon"
+  url = "https://www.patreon.com/Dencho"
+  weight = 50
+
+[[main]]
+  name = "Denchyaknow@Gmail.com"
+  url = "mailto:Denchyaknow@gmail.com"
+  weight = 50
+
+
+#[[main]]
+  #name = "About"
+  #url = "#about"
+  #weight = 60
+#<a href="https://twitter.com/Denchyaknow"> Twitter </a>
+#<a href="https://www.upwork.com/o/profiles/users/_~01711eb4bb75cbb1c3/"> UpWork </a>
+#<a href="https://www.patreon.com/Dencho"> Patreon </a>
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
